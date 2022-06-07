@@ -1,0 +1,3 @@
+- 👋 Oi, meu nome  é Hellen
+- 👀 Sou estudante de pensamento computacional e estou aprendendo a programar no scratch e javascript
+- 🌱 Estou insteressada em aprender mais sobre...
